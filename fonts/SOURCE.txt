@@ -1,0 +1,19 @@
+Archivo SemiExpanded (Omnibus-Type), SIL Open Font License 1.1 - licence file OFL.txt in this folder.
+The copyright line declares no Reserved Font Name, so the subset keeps the family name.
+
+Upstream repo: https://github.com/Omnibus-Type/Archivo at commit 211127690e8ff106c36c935f7e5e697114cff103
+Downloaded 2026-09-22 with curl from:
+  https://raw.githubusercontent.com/Omnibus-Type/Archivo/211127690e8ff106c36c935f7e5e697114cff103/fonts/ttf/ArchivoSemiExpanded-ExtraBold.ttf
+  https://raw.githubusercontent.com/Omnibus-Type/Archivo/211127690e8ff106c36c935f7e5e697114cff103/fonts/ttf/ArchivoSemiExpanded-SemiBold.ttf
+  https://raw.githubusercontent.com/Omnibus-Type/Archivo/211127690e8ff106c36c935f7e5e697114cff103/OFL.txt
+
+sha256 of downloaded files:
+e9745e9e90c16c00ba9065dee940ca2a390f9ca65168de359df41a55a88ee627  ArchivoSemiExpanded-ExtraBold.ttf
+8a367e289ebd27af7e16f15678f9d308426daf091300139e0f121ab052da3e64  ArchivoSemiExpanded-SemiBold.ttf
+108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b  OFL.txt
+
+Subset with Side-Website-Demos/.venv/bin/pyftsubset: U+0020-007E plus nbsp, (c), (R), middle dot, en/em dash,
+curly quotes, bullet, ellipsis; features kern liga calt tnum lnum case; flavor woff2
+84ce5a92cf9095b9bc148bc27b88e7caff46d92bf3349ac820f74c463caa3e3d  archivo-semiexp-ExtraBold-latin.woff2  (weight 800, display)
+ca224414a32b28cc147b5ca48c39bf80be1815099914b83d1626908b24073505  archivo-semiexp-SemiBold-latin.woff2   (weight 600, labels, buttons, tabs)
+The source .ttf files were not kept in the served folder.
